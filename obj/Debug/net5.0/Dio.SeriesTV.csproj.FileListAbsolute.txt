@@ -1,0 +1,16 @@
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.exe
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.deps.json
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.runtimeconfig.json
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.runtimeconfig.dev.json
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.dll
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\ref\Dio.SeriesTV.dll
+C:\Guilherme\Projetos C#\Dio.SeriesTV\bin\Debug\net5.0\Dio.SeriesTV.pdb
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.csproj.AssemblyReference.cache
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.AssemblyInfoInputs.cache
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.AssemblyInfo.cs
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.csproj.CoreCompileInputs.cache
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.dll
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\ref\Dio.SeriesTV.dll
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.pdb
+C:\Guilherme\Projetos C#\Dio.SeriesTV\obj\Debug\net5.0\Dio.SeriesTV.genruntimeconfig.cache
