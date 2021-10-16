@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Dio.SeriesTV
 {
@@ -84,6 +85,7 @@ namespace Dio.SeriesTV
 
         private static void InserirSerie()
         {
+            
             Console.WriteLine("Inserir nova série");
 
             foreach (int i in Enum.GetValues(typeof(Genero)))
@@ -127,8 +129,11 @@ namespace Dio.SeriesTV
 
         private static string ObterOpcaoUsuario()
         {
-            Console.WriteLine(   );
+            Console.WriteLine();
+            Console.WriteLine(string.Concat(Enumerable.Repeat("=", 26)));
             Console.WriteLine("DIO Séries a seu dispor!!!");
+            Console.WriteLine(string.Concat(Enumerable.Repeat("=", 26)));
+            Console.WriteLine();
             Console.WriteLine("Informe a opção desejada:");
 
             Console.WriteLine("1 - Listar sérires");
